@@ -8,8 +8,3 @@ console.log(newItems);
 
 
 
-// git commit -m "first commit"
-
-
-// git config --global user.email  alinasimonian@Alinas-Air 
-
